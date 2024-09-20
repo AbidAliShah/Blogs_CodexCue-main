@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Iron Man: Genius, Billionaire, Playboy, Philanthropist",
+        "author": "Tony Stark",
+        "profilePicture": "/images/tony.jpg",
+        "content": "Iron Man is a technological marvel, equipped with a high-tech suit of armor that grants him flight, super strength, and advanced weaponry. Tony Stark, the brilliant mind behind the suit, is a complex and charismatic figure."
+      },
+    {
+      "id": 2,
+      "title": "The Unstoppable Hulk",
+      "author": "Bruce Banner",
+      "profilePicture": "/images/bruce.jpg",
+      "content": "The Hulk is a green, rage-fueled powerhouse with incredible strength and durability. When mild-mannered scientist Bruce Banner becomes enraged, he transforms into this monstrous hero."
+    },
+   
+    {
+      "id": 3,
+      "title": "Captain America: The First Avenger",
+      "author": "Steve Rogers",
+      "profilePicture": "/images/steve.jpg",
+      "content": "Captain America is a symbol of American ideals, possessing peak human physical condition, exceptional leadership skills, and unwavering determination. Enhanced by the Super Soldier Serum, he is a fearless defender of liberty."
+    },
+    {
+      "id": 4,
+      "title": "Thor: God of Thunder",
+      "author": "Thor Odinson",
+      "profilePicture": "/images/thor.jpg",
+      "content": "Thor is a powerful Asgardian warrior with superhuman strength, durability, and the ability to control lightning. Wielding the mighty hammer Mjolnir, he protects Earth and the Nine Realms."
+    }
+  ]
+  
